@@ -85,9 +85,4 @@ To build a dynamic and visually engaging Excel dashboard that summarizes and ana
 
 ---
 
-## 📝 Insights Example (optional to include):
-- Technology category generated nearly equal sales to Furniture but with slightly higher profit margins.
-- First Class and Same Day shipping modes have lower distribution than Standard, indicating customer preference for economical shipping.
-- Virginia and Florida are leading in sales volume among all states.
 
----
