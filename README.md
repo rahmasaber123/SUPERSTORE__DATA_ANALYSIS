@@ -4,7 +4,9 @@ This Excel dashboard was built using the Superstore dataset to provide interacti
 
 ## 📁 Project Title:
 Superstore Sales Analytics Dashboard
-![DASHBOARD](images/life_vs_gdp.png)
+
+
+![DASHBOARD](https://github.com/rahmasaber123/SUPERSTORE__DATA_ANALYSIS/blob/main/DASH_BOARD.jpeg?raw=true)
 
 ##  Objective:
 To build a dynamic and visually engaging Excel dashboard that summarizes and analyzes sales performance across different dimensions such as Category, Region, Ship Mode, and City.
